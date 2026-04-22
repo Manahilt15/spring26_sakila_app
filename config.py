@@ -1,5 +1,5 @@
 # ================================================
-# Config updated by: YOUR_NAME
+# Config updated by: Muhammad Humza Majeed
 # Date: 2026-04-22
 # Changes: Updated DB host, added connection timeout
 # ================================================
