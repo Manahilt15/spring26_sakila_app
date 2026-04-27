@@ -1,8 +1,10 @@
 # Author: Manahil Tanweer
 # Date: 2026-04-27
-# Description: Merged config updates — database host, timeout, and health check settings
+# Description: Merged config updates — database host, timeout, and health
+# check settings
 
 import os
+
 
 class Config:
     SECRET_KEY = os.environ.get('SECRET_KEY', 'super-secret-assignment-key')
