@@ -12,11 +12,6 @@ on:
       - 'docker-compose.yml'
       - 'templates/**'
       - 'static/**'
-    paths-ignore:
-      - 'README.md'
-      - 'docs/**'
-      - '.gitignore'
-      - '*.md'
 
 jobs:
   deploy-staging:
